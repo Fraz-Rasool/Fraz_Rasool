@@ -2,7 +2,9 @@
 using namespace std;
 
 int main(){
-	cout<<"Fraz Rasool";
+	cout<<"DIng DOng";
+	cout<<"Gol Mol";
+	cout<<"HEmlo";
 	return 0;
 }
 
